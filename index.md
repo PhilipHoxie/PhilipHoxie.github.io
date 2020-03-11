@@ -6,4 +6,4 @@ I am a research associate at the American Enterprise Institute in Washington, DC
 
 I plan to use this site to host interactive content from reports done in collaboration with coauthors. If you have any questions about my work, reach out to philip.hoxie@aei.org. 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMiddlebury_College&psig=AOvVaw1BT5gfiAjT83ZCcseWq6s4&ust=1583972937538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJizl5aVkegCFQAAAAAdAAAAABAD)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Middlebury_College_seal.svg/260px-Middlebury_College_seal.svg.png) ![](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092016/aei_logo_blue.jpg?itok=u0XDCs5f)
